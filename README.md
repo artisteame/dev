@@ -16,3 +16,4 @@ It’s a quick way to edit and navigate code. It's especially useful if you want
 git init
 git add .
 git commit -m "Initial commit"
+git remote add origin https://github.com/artisteame/artisteamestar.git
